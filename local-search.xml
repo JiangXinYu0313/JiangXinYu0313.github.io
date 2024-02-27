@@ -5,10 +5,10 @@
   
   <entry>
     <title></title>
-    <link href="/clt1oif330001povr71sugiml/"/>
-    <url>/clt1oif330001povr71sugiml/</url>
+    <link href="/clt4k8sl10006ikvr30pb0ob5/"/>
+    <url>/clt4k8sl10006ikvr30pb0ob5/</url>
     
-    <content type="html"><![CDATA[<hr><h2 id="title-Onlyfans年龄认证怎么办？"><a href="#title-Onlyfans年龄认证怎么办？" class="headerlink" title="title:Onlyfans年龄认证怎么办？"></a>title:Onlyfans年龄认证怎么办？</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="在主题目录下找到配置文件-config-yml"><a href="#在主题目录下找到配置文件-config-yml" class="headerlink" title="在主题目录下找到配置文件_config.yml"></a>在主题目录下找到配置文件<code>_config.yml</code></h2><p>以fluid为例<code>hexo-blog\themes\fluid\</code>_config.yml ，先开启友链，按如下配置</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">navbar:</span><br>  <span class="hljs-attr">menu:</span><br>    <span class="hljs-bullet">-</span> &#123; <span class="hljs-attr">key:</span> <span class="hljs-string">&#x27;links&#x27;</span>, <span class="hljs-attr">link:</span> <span class="hljs-string">&#x27;/links/&#x27;</span>, <span class="hljs-attr">icon:</span> <span class="hljs-string">&#x27;iconfont icon-link-fill&#x27;</span> &#125;<br></code></pre></td></tr></table></figure><p><img src="https://anyubenyu.oss-cn-shanghai.aliyuncs.com/img202402272221304.png" alt="image-20240227222131176"></p><h2 id="然后编辑友链，找到-links-的配置项，对页面内容进行配置："><a href="#然后编辑友链，找到-links-的配置项，对页面内容进行配置：" class="headerlink" title="然后编辑友链，找到 links 的配置项，对页面内容进行配置："></a>然后编辑友链，找到 <code>links</code> 的配置项，对页面内容进行配置：</h2><p>这里以北哥的网站为例</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">links:</span><br>  <span class="hljs-attr">items:</span><br>    <span class="hljs-bullet">-</span> &#123;<br>      <span class="hljs-attr">title:</span> <span class="hljs-string">&#x27;编程指北的小站&#x27;</span>,<br>      <span class="hljs-attr">intro:</span> <span class="hljs-string">&#x27;ChatGPT-PLUS指南，最新资讯&#x27;</span>,<br>      <span class="hljs-attr">link:</span> <span class="hljs-string">&#x27;http://anyubenyu.com/&#x27;</span>,<br>      <span class="hljs-attr">avatar:</span> <span class="hljs-string">&#x27;/img/favicon.png&#x27;</span><br>    &#125;<br>  <span class="hljs-attr">default_avatar:</span> <span class="hljs-string">/img/avatar.png</span><br></code></pre></td></tr></table></figure>]]></content>
     
     
     
@@ -152,6 +152,33 @@
   
   
   <entry>
+    <title>Onlyfans年龄认证怎么办？</title>
+    <link href="/onlyfans-age/"/>
+    <url>/onlyfans-age/</url>
+    
+    <content type="html"><![CDATA[<h2 id="1-概述"><a href="#1-概述" class="headerlink" title="1. 概述"></a><strong>1. 概述</strong></h2><ul><li><strong>OnlyFans简介</strong>：OnlyFans，自2016年起，作为一种内容订阅服务平台，让内容创作者能通过用户订阅的方式获得收入。这个平台在多个领域如音乐、健身、摄影及成人内容等都十分受欢迎。</li></ul><p>本指南旨在解释如何在OnlyFans平台上完成年龄验证，这是一个用户面临的常见问题。</p><h2 id="2-年龄验证的必要性"><a href="#2-年龄验证的必要性" class="headerlink" title="2. 年龄验证的必要性"></a><strong>2. 年龄验证的必要性</strong></h2><p>OnlyFans实行年龄验证主要是为了符合法律规定，防止未成年人接触不适宜的内容。由于平台内容多样，法定年龄的用户才被允许访问，以确保遵守网络内容和未成年人保护的相关法律。年龄验证是OnlyFans保护未成年人的措施之一，同时也体现了该平台对用户自由与社会责任的平衡。</p><h2 id="3-OnlyFans的年龄验证机制"><a href="#3-OnlyFans的年龄验证机制" class="headerlink" title="3. OnlyFans的年龄验证机制"></a><strong>3. OnlyFans的年龄验证机制</strong></h2><p>OnlyFans在用户注册时仅要求提供邮箱，而未直接询问年龄。用户在设置中也无法直接设定年龄。因此，OnlyFans依赖第三方服务来完成年龄验证。</p><h2 id="4-通过年龄验证的方法"><a href="#4-通过年龄验证的方法" class="headerlink" title="4. 通过年龄验证的方法"></a><strong>4. 通过年龄验证的方法</strong></h2><p>以下是一些通过OnlyFans年龄验证的常用方法：</p><ul><li><strong>4.1 使用虚拟Visa卡注册</strong><br>由于信用卡信息可用于年龄验证，因此更换信用卡信息也是一种方式。推荐使用<a href="https://bewildcard.com/i/GPT8866">WildCard | 一分钟开卡，轻松订阅海外软件服务</a>，通过该链接注册可享受开卡88折优惠。<br>详细操作请参考：<a href="https://sorachatgpt4.com/onlyfans-pay/">如何国内订阅onlyfans？如何在onlyfans上面订阅支付？onlyfans订阅保姆级教程 - AI大镖客 (sorachatgpt4.com)</a></li><li><strong>4.2 调整邮箱中的生日信息</strong><br>修改邮箱账户中的生日信息，确保显示为成年人的出生日期。例如，下图是Google邮箱的设置界面，其他邮箱的操作也类似。</li></ul><p><img src="https://xinyuweb.oss-cn-beijing.aliyuncs.com/img2024/202402272355037.png" alt="image-20240227235544913"></p><p>邮箱设置示例</p><ul><li><strong>4.3 切换IP地址</strong><br>有用户发现，切换IP地址有时也能帮助通过年龄验证，尽管其具体原理尚不明确。</li></ul><h2 id="5-结论"><a href="#5-结论" class="headerlink" title="5. 结论"></a><strong>5. 结论</strong></h2><p>总的来说，通过OnlyFans的年龄验证可以通过以下几种方法：使用虚拟信用卡注册、调整邮箱中的生日信息，以及在需要时切换IP地址。这些方法可以帮助用户有效地满足OnlyFans的年龄验证要求。</p><p>完成年龄验证后，用户便可以开始享受订阅服务。</p><p><img src="https://xinyuweb.oss-cn-beijing.aliyuncs.com/img2024/202402252134846.jpg" alt="订阅示意图"></p><h1 id="参考："><a href="#参考：" class="headerlink" title="参考："></a>参考：</h1><p><a href="https://sorachatgpt4.com/onlyfans-pay/">如何国内订阅onlyfans？如何在onlyfans上面订阅支付？onlyfans订阅保姆级教程 </a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>onlyfans</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>虚拟信用卡</tag>
+      
+      <tag>onlyfans</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>如何国内订阅onlyfans？如何在onlyfans上面订阅支付？onlyfans订阅保姆级教程</title>
     <link href="/onlyfans-pay/"/>
     <url>/onlyfans-pay/</url>
@@ -195,9 +222,9 @@
     
     <tags>
       
-      <tag>chatgpt</tag>
-      
       <tag>虚拟信用卡</tag>
+      
+      <tag>chatgpt</tag>
       
       <tag>chatgpt4</tag>
       
@@ -224,9 +251,9 @@
     
     <tags>
       
-      <tag>chatgpt</tag>
-      
       <tag>虚拟信用卡</tag>
+      
+      <tag>chatgpt</tag>
       
       <tag>chatgpt4</tag>
       
