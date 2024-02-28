@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sorachatgpt4.com/mj-sign/</loc>
+    
+    <lastmod>2024-02-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sorachatgpt4.com/mj-zhinan/</loc>
+    
+    <lastmod>2024-02-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sorachatgpt4.com/palworld-tcent/</loc>
     
     <lastmod>2024-02-28</lastmod>
@@ -128,6 +146,13 @@
 
   
   <url>
+    <loc>https://sorachatgpt4.com/tags/Midjourney/</loc>
+    <lastmod>2024-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sorachatgpt4.com/tags/%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1/</loc>
     <lastmod>2024-02-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -142,6 +167,13 @@
   </url>
   
   <url>
+    <loc>https://sorachatgpt4.com/tags/Sorachatgpt/</loc>
+    <lastmod>2024-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sorachatgpt4.com/tags/chatgpt/</loc>
     <lastmod>2024-02-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -150,13 +182,6 @@
   
   <url>
     <loc>https://sorachatgpt4.com/tags/chatgpt4/</loc>
-    <lastmod>2024-02-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sorachatgpt4.com/tags/Sorachatgpt/</loc>
     <lastmod>2024-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -190,14 +215,14 @@
     <priority>0.2</priority>
   </url>
   
+
+  
   <url>
-    <loc>https://sorachatgpt4.com/tags/Midjourney/</loc>
+    <loc>https://sorachatgpt4.com/categories/Midjourney/</loc>
     <lastmod>2024-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
-  
-
   
   <url>
     <loc>https://sorachatgpt4.com/categories/onlyfans/</loc>
@@ -207,14 +232,14 @@
   </url>
   
   <url>
-    <loc>https://sorachatgpt4.com/categories/chatgpt/</loc>
+    <loc>https://sorachatgpt4.com/categories/Sora/</loc>
     <lastmod>2024-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sorachatgpt4.com/categories/Sora/</loc>
+    <loc>https://sorachatgpt4.com/categories/chatgpt/</loc>
     <lastmod>2024-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
