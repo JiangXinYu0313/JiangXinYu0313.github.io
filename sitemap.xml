@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sorachatgpt4.com/sd-yunsetup/</loc>
+    
+    <lastmod>2024-03-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://sorachatgpt4.com/guide/</loc>
+    
+    <lastmod>2024-03-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sorachatgpt4.com/ai-poju/</loc>
     
     <lastmod>2024-02-29</lastmod>
@@ -23,15 +41,6 @@
     <loc>https://sorachatgpt4.com/wildcard-use/</loc>
     
     <lastmod>2024-02-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://sorachatgpt4.com/guide/</loc>
-    
-    <lastmod>2024-02-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -148,7 +157,7 @@
 
   <url>
     <loc>https://sorachatgpt4.com/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <lastmod>2024-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -156,77 +165,91 @@
   
   <url>
     <loc>https://sorachatgpt4.com/tags/Midjourney/</loc>
-    <lastmod>2024-02-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sorachatgpt4.com/tags/Sorachatgpt/</loc>
-    <lastmod>2024-02-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sorachatgpt4.com/tags/chatgpt/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <lastmod>2024-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sorachatgpt4.com/tags/%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <lastmod>2024-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sorachatgpt4.com/tags/chatgpt/</loc>
+    <lastmod>2024-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sorachatgpt4.com/tags/chatgpt4/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <lastmod>2024-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sorachatgpt4.com/tags/onlyfans/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <loc>https://sorachatgpt4.com/tags/Sorachatgpt/</loc>
+    <lastmod>2024-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sorachatgpt4.com/tags/Sora/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <lastmod>2024-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sorachatgpt4.com/tags/onlyfans/</loc>
+    <lastmod>2024-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sorachatgpt4.com/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%83%A8%E7%BD%B2/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <lastmod>2024-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sorachatgpt4.com/tags/%E5%B9%BB%E5%85%BD%E5%B8%95%E9%B2%81/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <lastmod>2024-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sorachatgpt4.com/tags/%E9%9B%BE%E9%94%81%E7%8E%8B%E5%9B%BD/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <lastmod>2024-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sorachatgpt4.com/tags/stable-diffusion/</loc>
+    <lastmod>2024-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sorachatgpt4.com/tags/stable-diffusion%E4%BA%91%E7%AB%AF%E9%83%A8%E7%BD%B2/</loc>
+    <lastmod>2024-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sorachatgpt4.com/tags/AI%E5%8F%98%E7%8E%B0/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <lastmod>2024-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -235,49 +258,56 @@
   
   <url>
     <loc>https://sorachatgpt4.com/categories/Midjourney/</loc>
-    <lastmod>2024-02-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sorachatgpt4.com/categories/Sora/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <lastmod>2024-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sorachatgpt4.com/categories/chatgpt/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <lastmod>2024-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sorachatgpt4.com/categories/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <lastmod>2024-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sorachatgpt4.com/categories/Sora/</loc>
+    <lastmod>2024-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sorachatgpt4.com/categories/stable-diffusion/</loc>
+    <lastmod>2024-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sorachatgpt4.com/categories/onlyfans/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <lastmod>2024-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sorachatgpt4.com/categories/AI%E5%8F%98%E7%8E%B0/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <lastmod>2024-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sorachatgpt4.com/categories/%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2024-02-29</lastmod>
+    <lastmod>2024-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
