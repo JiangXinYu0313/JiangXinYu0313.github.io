@@ -8,7 +8,7 @@
     <link href="/chatgpt-nochat/"/>
     <url>/chatgpt-nochat/</url>
     
-    <content type="html"><![CDATA[<p><strong>精选文章导航：</strong>  <strong>PS：如需代注册帐号或代充值Chatgpt Plus会员，请添加站长客服微信：DrJeurat  备注gpts</strong>   </p><table><thead><tr><th align="left">类别</th><th>精选文章</th></tr></thead><tbody><tr><td align="left"><strong>Stable Diffsion</strong></td><td>┃<a href="https://sorachatgpt4.com/sd-yunsetup/">傻瓜式的云端SD(stable diffusion)部署教程 - 白嫖4090、无需代码、一键启动 </a></td></tr><tr><td align="left"><strong>Sora</strong></td><td>┃<a href="https://sorachatgpt4.com/sora/"><strong>Sora是什么？Sora怎么使用？Sora的原理是什么?</strong></a></td></tr><tr><td align="left"><strong>ChatGPT</strong></td><td>┃<a href="https://sorachatgpt4.com/chatgpt4-zhinan/"> <strong>【推荐】一键升级chatgpt4.0保姆级教程</strong> </a>┃<a href="https://sorachatgpt4.com/chatgpt4-china/"> 免科学上网使用官方GPT教程 </a>┃<a href="https://sorachatgpt4.com/how-to-update-chatgpt/">【保姆级教程】国内chatgpt账号如何注册？chatgpt4如何升级充值?</a></td></tr><tr><td align="left"><strong>Onlyfans</strong></td><td>┃ <a href="https://sorachatgpt4.com/onlyfans-pay/"><strong>【推荐】OnlyFans订阅保姆级教程</strong> </a>┃<a href="https://sorachatgpt4.com/onlyfans-age/"> OnlyFans年龄验证如何解决 </a>)┃</td></tr><tr><td align="left"><strong>Midjourney</strong></td><td>┃<a href="https://sorachatgpt4.com/mj-zhinan/"> <strong>【推荐】Midjourney订阅教程</strong> </a>┃<a href="https://sorachatgpt4.com/mj-sign/"> <strong>【推荐】Midjourney注册教程</strong> </a>┃</td></tr><tr><td align="left"><strong>虚拟信用卡</strong></td><td>┃<a href="https://sorachatgpt4.com/wildcard-use/"> <strong>【推荐】Wildcard虚拟信用卡开通教程</strong> </a>┃</td></tr><tr><td align="left"><strong>游戏云服务器一键部署</strong></td><td>┃<a href="https://sorachatgpt4.com/palworld-tcent/"><strong>【推荐!】幻兽帕鲁腾讯云服务器10s一键部署保姆级教程</strong></a>┃<a href="https://sorachatgpt4.com/enshrouded-tcent/">雾锁王国新手指南！腾讯云10秒极速开服的雾锁王国服务器全自动部署教程</a>┃<a href="https://sorachatgpt4.com/enshrouded-ali/">雾锁王国新手指南！阿里云一键自动部署雾锁王国服务器联机教程！</a>┃<a href="https://sorachatgpt4.com/palworld-ali/">幻兽帕鲁阿里云服务器搭建保姆级教程!手把手教你部署Palworld专用服务器! </a>┃</td></tr></tbody></table><hr><h1 id="现象"><a href="#现象" class="headerlink" title="现象"></a>现象</h1><p>今天忽然发现 ChatGPT无法发送消息，能查看历史对话，但是无法发送消息。（ps:有想注册或升级chatgpt的朋友可以看这篇：<a href="https://sorachatgpt4.com/chatgpt4-zhinan/">纯干货！国内chatgpt账号如何注册？如何升级充值到chatgpt4？</a>  打不开的兄弟用梯子试试）</p><h1 id="猜测原因"><a href="#猜测原因" class="headerlink" title="猜测原因"></a>猜测原因</h1><p>出现这个问题的各位，应该都是点击登录后顶部弹窗邀请[加入多语言 alapha 测试]了，并且语言选择了中文，抓包看到<a href="https://ab.chatgpt.com/">https://ab.chatgpt.com</a>接口有问题，控制台报错，拿不到account信息。</p><h1 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h1><ul><li>临时方案</li></ul><p>使用浏览器的隐私模式打开 ChatGPT</p><ul><li>长久方案</li></ul><p>清空 <a href="https://chat.openai.com/%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8%E6%9C%AC%E5%9C%B0%E6%89%80%E6%9C%89%E7%BC%93%E5%AD%98%E6%95%B0%E6%8D%AE">https://chat.openai.com/的浏览器本地所有缓存数据</a><br>流程:ChatGPT对话页面-&gt;鼠标右键-&gt;检查(打开devtools面板)-&gt;应用(顶部)-&gt;左侧应用下的存储-&gt;勾选「包括第三方cookies」-&gt;点击「清除网站数据」</p><p>目前收到的消息，Chatgpt网页版更新了语音对话功能以及最近封了一大批IP异常和批量注册的用户，大家可以登陆去看看。</p><p><img src="https://xinyuweb.oss-cn-beijing.aliyuncs.com/img2024/202403082155635.png" alt="image-20240308215519605"></p><p><img src="https://xinyuweb.oss-cn-beijing.aliyuncs.com/img2024/202403082156527.png" alt="image-20240308215634469"></p><hr><p>欢迎大家留言反馈结果。（ps:有想注册或升级chatgpt的朋友可以看这篇：<a href="https://sorachatgpt4.com/chatgpt4-zhinan/">纯干货！国内chatgpt账号如何注册？如何升级充值到chatgpt4？</a>  打不开的兄弟用梯子试试）</p><hr><p>亲爱的读者你好，我是<strong>AI大镖客</strong>，一个专注于Ai领域的博士生。 最新原创的文章都先发布在公众号，欢迎关注哦~ 分享给你Ai变现、Ai工具使用的相关资讯。</p><p><strong>扫描下方二维码</strong>，带你第一时间了解分享给你Ai变现、Ai工具使用的相关资讯以及ChatGPT、Sora、Midjourney最新动态！</p><p><img src="https://xinyuweb.oss-cn-beijing.aliyuncs.com/img2024/202402282252836.png" alt="AI大镖客公众号.jpg"></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>精选文章导航：</strong>  <strong>PS：如需代注册帐号或代充值Chatgpt Plus会员，请添加站长客服微信：DrJeurat  备注gpts</strong>   </p><table><thead><tr><th align="left">类别</th><th>精选文章</th></tr></thead><tbody><tr><td align="left"><strong>Stable Diffsion</strong></td><td>┃<a href="https://sorachatgpt4.com/sd-yunsetup/">傻瓜式的云端SD(stable diffusion)部署教程 - 白嫖4090、无需代码、一键启动 </a></td></tr><tr><td align="left"><strong>Sora</strong></td><td>┃<a href="https://sorachatgpt4.com/sora/"><strong>Sora是什么？Sora怎么使用？Sora的原理是什么?</strong></a></td></tr><tr><td align="left"><strong>ChatGPT</strong></td><td>┃<a href="https://sorachatgpt4.com/chatgpt4-zhinan/"> <strong>【推荐】一键升级chatgpt4.0保姆级教程</strong> </a>┃<a href="https://sorachatgpt4.com/chatgpt4-china/"> 免科学上网使用官方GPT教程 </a>┃<a href="https://sorachatgpt4.com/how-to-update-chatgpt/">【保姆级教程】国内chatgpt账号如何注册？chatgpt4如何升级充值?</a></td></tr><tr><td align="left"><strong>Onlyfans</strong></td><td>┃ <a href="https://sorachatgpt4.com/onlyfans-pay/"><strong>【推荐】OnlyFans订阅保姆级教程</strong> </a>┃<a href="https://sorachatgpt4.com/onlyfans-age/"> OnlyFans年龄验证如何解决 </a>)┃</td></tr><tr><td align="left"><strong>Midjourney</strong></td><td>┃<a href="https://sorachatgpt4.com/mj-zhinan/"> <strong>【推荐】Midjourney订阅教程</strong> </a>┃<a href="https://sorachatgpt4.com/mj-sign/"> <strong>【推荐】Midjourney注册教程</strong> </a>┃</td></tr><tr><td align="left"><strong>虚拟信用卡</strong></td><td>┃<a href="https://sorachatgpt4.com/wildcard-use/"> <strong>【推荐】Wildcard虚拟信用卡开通教程</strong> </a>┃</td></tr><tr><td align="left"><strong>游戏云服务器一键部署</strong></td><td>┃<a href="https://sorachatgpt4.com/palworld-tcent/"><strong>【推荐!】幻兽帕鲁腾讯云服务器10s一键部署保姆级教程</strong></a>┃<a href="https://sorachatgpt4.com/enshrouded-tcent/">雾锁王国新手指南！腾讯云10秒极速开服的雾锁王国服务器全自动部署教程</a>┃<a href="https://sorachatgpt4.com/enshrouded-ali/">雾锁王国新手指南！阿里云一键自动部署雾锁王国服务器联机教程！</a>┃<a href="https://sorachatgpt4.com/palworld-ali/">幻兽帕鲁阿里云服务器搭建保姆级教程!手把手教你部署Palworld专用服务器! </a>┃</td></tr></tbody></table><hr><h1 id="现象"><a href="#现象" class="headerlink" title="现象"></a>现象</h1><p>今天忽然发现 ChatGPT无法发送消息，能查看历史对话，但是无法发送消息。（ps:有想注册或升级chatgpt的朋友可以看这篇：<a href="https://sorachatgpt4.com/chatgpt4-zhinan/">纯干货！国内chatgpt账号如何注册？如何升级充值到chatgpt4？</a>  打不开的兄弟用梯子试试）</p><h1 id="猜测原因"><a href="#猜测原因" class="headerlink" title="猜测原因"></a>猜测原因</h1><p>出现这个问题的各位，应该都是点击登录后顶部弹窗邀请[加入多语言 alapha 测试]了，并且语言选择了中文，抓包看到<a href="https://ab.chatgpt.com/">https://ab.chatgpt.com</a>接口有问题，控制台报错，拿不到account信息。</p><h1 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h1><ul><li>临时方案</li></ul><p>使用浏览器的隐私模式打开 ChatGPT</p><ul><li>长久方案</li></ul><p>清空 <a href="https://chat.openai.com/%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8%E6%9C%AC%E5%9C%B0%E6%89%80%E6%9C%89%E7%BC%93%E5%AD%98%E6%95%B0%E6%8D%AE">https://chat.openai.com/的浏览器本地所有缓存数据</a><br>流程:ChatGPT对话页面-&gt;鼠标右键-&gt;检查(打开devtools面板)-&gt;应用(顶部)-&gt;左侧应用下的存储-&gt;勾选「包括第三方cookies」-&gt;点击「清除网站数据」</p><p>目前收到的消息，Chatgpt网页版更新了语音对话功能以及最近封了一大批IP异常和批量注册的用户，大家可以登陆去看看。如果有这个语音对话功能，那么在网页版上就可以实时对话，让GPT当我的英语口语老师哈哈哈。</p><p><img src="https://xinyuweb.oss-cn-beijing.aliyuncs.com/img2024/202403082155635.png" alt="image-20240308215519605"></p><p><img src="https://xinyuweb.oss-cn-beijing.aliyuncs.com/img2024/202403082156527.png" alt="image-20240308215634469"></p><hr><p>欢迎大家留言反馈结果。（ps:有想注册或升级chatgpt的朋友可以看这篇：<a href="https://sorachatgpt4.com/chatgpt4-zhinan/">纯干货！国内chatgpt账号如何注册？如何升级充值到chatgpt4？</a>  打不开的兄弟用梯子试试）</p><hr><p>亲爱的读者你好，我是<strong>AI大镖客</strong>，一个专注于Ai领域的博士生。 最新原创的文章都先发布在公众号，欢迎关注哦~ 分享给你Ai变现、Ai工具使用的相关资讯。</p><p><strong>扫描下方二维码</strong>，带你第一时间了解分享给你Ai变现、Ai工具使用的相关资讯以及ChatGPT、Sora、Midjourney最新动态！</p><p><img src="https://xinyuweb.oss-cn-beijing.aliyuncs.com/img2024/202402282252836.png" alt="AI大镖客公众号.jpg"></p>]]></content>
     
     
     <categories>
@@ -155,15 +155,15 @@
       
       <tag>Midjourney</tag>
       
-      <tag>虚拟信用卡</tag>
-      
-      <tag>onlyfans</tag>
-      
       <tag>Sora</tag>
       
       <tag>chatgpt</tag>
       
+      <tag>虚拟信用卡</tag>
+      
       <tag>chatgpt4</tag>
+      
+      <tag>onlyfans</tag>
       
       <tag>服务器部署</tag>
       
@@ -406,9 +406,9 @@
     
     <tags>
       
-      <tag>虚拟信用卡</tag>
-      
       <tag>chatgpt</tag>
+      
+      <tag>虚拟信用卡</tag>
       
       <tag>chatgpt4</tag>
       
@@ -512,9 +512,9 @@
     
     <tags>
       
-      <tag>虚拟信用卡</tag>
-      
       <tag>chatgpt</tag>
+      
+      <tag>虚拟信用卡</tag>
       
       <tag>chatgpt4</tag>
       
@@ -541,9 +541,9 @@
     
     <tags>
       
-      <tag>虚拟信用卡</tag>
-      
       <tag>chatgpt</tag>
+      
+      <tag>虚拟信用卡</tag>
       
       <tag>chatgpt4</tag>
       
