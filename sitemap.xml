@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://sorachatgpt4.com/sd-model/</loc>
+    
+    <lastmod>2024-03-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://sorachatgpt4.com/mj-same/</loc>
     
     <lastmod>2024-03-17</lastmod>
@@ -275,6 +284,20 @@
   </url>
   
   <url>
+    <loc>https://sorachatgpt4.com/tags/Claude3/</loc>
+    <lastmod>2024-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sorachatgpt4.com/tags/Claude3%E6%8F%90%E7%A4%BA%E8%AF%8D/</loc>
+    <lastmod>2024-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sorachatgpt4.com/tags/chatgpt/</loc>
     <lastmod>2024-03-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -290,20 +313,6 @@
   
   <url>
     <loc>https://sorachatgpt4.com/tags/chatgpt-team/</loc>
-    <lastmod>2024-03-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sorachatgpt4.com/tags/Claude3/</loc>
-    <lastmod>2024-03-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sorachatgpt4.com/tags/Claude3%E6%8F%90%E7%A4%BA%E8%AF%8D/</loc>
     <lastmod>2024-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -352,13 +361,6 @@
   </url>
   
   <url>
-    <loc>https://sorachatgpt4.com/tags/openai/</loc>
-    <lastmod>2024-03-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://sorachatgpt4.com/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%83%A8%E7%BD%B2/</loc>
     <lastmod>2024-03-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -394,6 +396,34 @@
   </url>
   
   <url>
+    <loc>https://sorachatgpt4.com/tags/openai/</loc>
+    <lastmod>2024-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sorachatgpt4.com/tags/AI%E6%A8%A1%E7%89%B9/</loc>
+    <lastmod>2024-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sorachatgpt4.com/tags/%E7%94%B5%E5%95%86%E6%A8%A1%E7%89%B9%E6%8D%A2%E8%A1%A3/</loc>
+    <lastmod>2024-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sorachatgpt4.com/tags/AI%E5%8F%98%E7%8E%B0/</loc>
+    <lastmod>2024-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sorachatgpt4.com/tags/ChatGPT/</loc>
     <lastmod>2024-03-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -402,13 +432,6 @@
   
   <url>
     <loc>https://sorachatgpt4.com/tags/%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
-    <lastmod>2024-03-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sorachatgpt4.com/tags/AI%E5%8F%98%E7%8E%B0/</loc>
     <lastmod>2024-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -438,14 +461,14 @@
   </url>
   
   <url>
-    <loc>https://sorachatgpt4.com/categories/chatgpt/</loc>
+    <loc>https://sorachatgpt4.com/categories/Claude3/</loc>
     <lastmod>2024-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sorachatgpt4.com/categories/Claude3/</loc>
+    <loc>https://sorachatgpt4.com/categories/chatgpt/</loc>
     <lastmod>2024-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
